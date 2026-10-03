@@ -1,0 +1,15 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Generated exports
+*.pdf
