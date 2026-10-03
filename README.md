@@ -57,7 +57,12 @@ The source data includes:
 
 `Stream ID`, `Date`, `Month`, `Artist`, `Listener Country`, `Region`, `Genre`, `Platform`, `Subscription`, `Streams`, `Unique Listeners`, `Skips`, `Playlist Adds`, `Completion Rate`, and `Revenue`.
 
+## 📈 Dashboard
+
+![Streaming Data Analysis Dashboard](screenshots/Dashboard.png)
+
 ## 📈 Dashboard Components
+
 
 The dashboard brings together:
 
